@@ -1,4 +1,4 @@
-# Desafios de Projeto Potência Tech Angular Developer - Powered by iFood
+# Desafios de Projeto - Potência Tech Angular Developer - Powered by iFood
 Respositório criado para os desafios de Projetos
 
 ## Links
